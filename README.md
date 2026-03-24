@@ -1,4 +1,4 @@
-# Dolly's Closet Customer App - Portfolio view
+# Dolly's Closet Customer App - Portfolio View
 
 This is the customer-facing application for Dolly's Closet, built with Next.js 15, React 19, and Tailwind CSS v4.
 
